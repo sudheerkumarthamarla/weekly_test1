@@ -1,0 +1,8 @@
+cricket ball
+cricket bat
+stumps
+bails
+helmet
+pads
+gloves
+shoes
